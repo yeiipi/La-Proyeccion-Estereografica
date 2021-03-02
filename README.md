@@ -1,1 +1,1 @@
-# La-Proyeccion-Estereografica
+# La Proyección Estereográfica
