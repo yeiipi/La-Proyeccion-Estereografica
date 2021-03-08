@@ -1,7 +1,7 @@
 clc
 
 %% Fígura: Cicloide
-% https://www.mathworks.com/matlabcentral/fileexchange/51310-hypotrochoid 
+% http://www.epsilones.com/paginas/curvas/curvas-014-cicloide.html 
 B=0.5;
 A=0.5;
 theta=-20*pi:0.01:20*pi;
