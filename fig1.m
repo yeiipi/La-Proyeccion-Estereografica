@@ -25,7 +25,7 @@ title("Hipocicloide")
 title("Hipocicloide")
 saveas(gcf, 'figs/f1_Plano.png');
 
-%% Plot Proyección Estereográfica
+%% Plot Proyección EstereográficaProyección Estereográfica
 figure
 [a,b,c] = sphere(30);
 plot3(a, b, c,'LineStyle',':','color',[0.5,0.5,0.5]);
